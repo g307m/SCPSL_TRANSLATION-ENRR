@@ -1,0 +1,13 @@
+AUXILIARY POWER
+XP
+CAMERA FEED ONLINE
+PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+Experience gained:
+Cooperative work
+D-Class termination assist
+Chaos kill assist
+MTF termination assist
+Scientist termination assist
+SCP termination assist
+LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
+General interactions

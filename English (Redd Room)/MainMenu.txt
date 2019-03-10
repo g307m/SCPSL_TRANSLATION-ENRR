@@ -1,0 +1,62 @@
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+PACK BY <i>Galaxy.#3056</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
+GAME CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+216.189.157.205
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These changes are not affecting on performance. Leaving default values is recommended.
+Light rendering mode:\nWhen off - it makes the game look worse. It is recommended to disable it only if you have very low-end setup
+V-SYNC
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Settings these sliders at lower values may increase gameplay smoothness.
+<color=#ff0000>SCP:SL Redd Room Edition</color>
+LIGHT RENDERING MODE
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
+3. SCP-914
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+The creators use Discord as a forum. No installation needed.\n(click the logo to join)
+Don't put the IP in #general! You will be banned!
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+REDD ROOM IP
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the Redd Room.
+DOWNLOADING DATA
+REDD ROOM NOT AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+The creators use Steam Discussions as a forum. (Click the logo below to open the forum)
